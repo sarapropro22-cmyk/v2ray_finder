@@ -1,0 +1,6 @@
+{
+  "name": "V2Ray Pulse",
+  "description": "An advanced automatic V2Ray searcher, crawler, and ping checker. Combines real-time network latency measurement with AI-powered server optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
